@@ -25,7 +25,7 @@ Section:NewButton("Funky Friday Auto Player", "make osu players scared", functio
 end)
 
 Section:NewButton("Mobile Keyboard", "mobile keyboard xd", function()
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/wally-rblx/funky-friday-autoplay/main/main.lua",true))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/advxzivhsjjdhxhsidifvsh/mobkeyboard/main/main.txt", true))()
 end)
 
 
